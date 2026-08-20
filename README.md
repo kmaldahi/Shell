@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for refrence
+Shell Script for refrence
